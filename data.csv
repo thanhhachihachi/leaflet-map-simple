@@ -1,4 +1,4 @@
-Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+Title,Address,Latitude,Longtitude,Found Address,Match quality,Google
+Bitexco,02 Hai Trieu,10.7718259,106.704748,"2 Hải Triều, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",Match,Google
+Vietnamese-German University,"Le Lai, Hoa Phu, Binh Duong",11.0564902,106.6710443,"Lê Lai, Hòa Phú, Tp. Thủ Dầu Một, Bình Dương, Vietnam",Match,Google
+Saigon Tower,"29 Le Duan, Ben Nghe",10.7826665,106.7012126,"Saigon Tower, 29 Lê Duẩn, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",Match,Google
