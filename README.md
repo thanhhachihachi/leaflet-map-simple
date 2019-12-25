@@ -10,3 +10,5 @@ https://thanhhachihachi.github.io/leaflet-map-simple/
 
 ## Learn more
 - Jack Dougherty and contributors, *Data Visualization For All*, a free textbook and online course, Trinity College, Hartford CT, http://DataVizForAll.org
+
+https://docs.google.com/spreadsheets/d/e/2PACX-1vThCjOActIx5hu42wGtsqfa7gTwdBUA0mqXLKlJwYPZBQRmkrhmYwxwcy-dbs_5v7rxQiuWb32jwGiq/pubhtml
